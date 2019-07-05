@@ -1,0 +1,13 @@
+body{
+	background-image: url(../images/fondoz.png);
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.responsive{
+	max-width: 100%;
+	height: auto;
+	display:block;
+	margin: auto;
+}
