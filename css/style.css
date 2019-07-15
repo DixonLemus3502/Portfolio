@@ -1,8 +1,9 @@
-body{
-	background-image: url(../images/fondoz.png);
-	background-attachment: fixed;
-	background-size: cover;
-	background-repeat: no-repeat;
+.fonu1{
+	background-image: linear-gradient(#fac70b, #df0e62);
+}
+
+.fonu2{
+	background-image: linear-gradient(#127681,#21174a)
 }
 
 .responsive{
@@ -10,4 +11,21 @@ body{
 	height: auto;
 	display:block;
 	margin: auto;
+}
+
+.radu{
+	border-radius: 25px;
+	border:10px solid #127681;
+}
+
+.fuen{
+	font-family: impact;
+	color: #fac70b;
+	font-size: 23px;
+	text-align: left;
+}
+
+.fofue{
+	background-color: rgba(25, 0, 78, 0.6);
+	border-radius: 15px;
 }
