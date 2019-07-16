@@ -6,6 +6,10 @@
 	background-image: linear-gradient(#127681,#21174a)
 }
 
+.fonu3{
+	background-image: linear-gradient(#df0e62,#21174a)
+}
+
 .responsive{
 	max-width: 100%;
 	height: auto;
@@ -28,4 +32,8 @@
 .fofue{
 	background-color: rgba(25, 0, 78, 0.6);
 	border-radius: 15px;
+}
+
+.line{
+	border: 1px solid white;
 }
