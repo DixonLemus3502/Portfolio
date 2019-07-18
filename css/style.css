@@ -3,11 +3,11 @@
 }
 
 .fonu2{
-	background-image: linear-gradient(#127681,#21174a)
+	background-image: radial-gradient(#127681,#21174a)
 }
 
 .fonu3{
-	background-image: linear-gradient(#df0e62,#21174a)
+	background-image: linear-gradient(#df0e62,#fac70b,#21174a)
 }
 
 .responsive{
@@ -19,7 +19,7 @@
 
 .radu{
 	border-radius: 25px;
-	border:10px solid #127681;
+	border:8px solid #127681;
 }
 
 .fuen{
@@ -36,4 +36,13 @@
 
 .line{
 	border: 1px solid white;
+}
+
+.colw{
+	color:white;
+}
+
+.rado{
+	border-radius: 30px;
+	border:10px solid white;
 }
